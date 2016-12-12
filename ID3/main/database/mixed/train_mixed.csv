@@ -1,0 +1,15 @@
+outlook,temperature,num,windy,class
+overcast,hot,1,FALSE,yes
+overcast,cool,1,TRUE,yes
+overcast,mild,3,TRUE,yes
+overcast,hot,2,FALSE,yes
+rainy,mild,4,FALSE,yes
+rainy,cool,1,FALSE,yes
+rainy,cool,5,TRUE,no
+rainy,mild,6,FALSE,yes
+rainy,mild,7,TRUE,no
+sunny,hot,2.5,FALSE,no
+sunny,hot,1,TRUE,no
+sunny,mild,6,FALSE,no
+sunny,cool,9,FALSE,yes
+sunny,mild,8,TRUE,yes
