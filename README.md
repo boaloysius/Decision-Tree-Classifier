@@ -18,7 +18,7 @@ It is one of the predictive modelling approaches used in statistics, data mining
   </li>
 </ul>
 
-<h2> Motivation of our project </h2>
+<h2> Motivation</h2>
 
 <ul>
   <li>
@@ -34,7 +34,7 @@ It is one of the predictive modelling approaches used in statistics, data mining
   </li>
 </ul>
 
-<h2>Advantages of this project</h2>
+<h2>Advantages</h2>
 <ul>
   <li>
     The decision tree classifier we implemented is based on ID3 algorithm. It take both numerical, categorical, and boolean attributes
