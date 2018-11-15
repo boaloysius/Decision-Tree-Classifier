@@ -7,6 +7,10 @@ Decision tree learning uses a decision tree as a predictive model which maps obs
 
 It is one of the predictive modelling approaches used in statistics, data mining and machine learning. Tree models where the target variable can take a finite set of values are called classification trees; in these tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels.
 
+## Run the Project
+<code>
+python ID3/main/main.py
+</code>
 <h2>Algorith reference</h2>
 
 <ul>
